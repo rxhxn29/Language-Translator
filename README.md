@@ -13,8 +13,3 @@ Supports auto language detection, multiple target languages, and a clean GUI.
 - Java
 - Swing
 - HTTP Networking (HttpURLConnection)
-
-## ⚙️ How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/TranslatorApp.git
